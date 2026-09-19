@@ -1,0 +1,15 @@
+gitignore
+# Зависимости
+node_modules/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Настройки редактора
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
